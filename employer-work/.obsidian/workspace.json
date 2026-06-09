@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "431affb624d4b52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c395668dbc12e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d79e90b3c1b7c60",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -232.5,
+                  "y": 53,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f01e19f9f9316cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc1a7de20702325a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c715a1c94eab18a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fa418a9839227ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b95bae635301d9f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "797cb4cb6520de53",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfc3e20ce84f5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a9e26b381bc5ad7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "五健平台知识库/系统架构/用户画像与标签中心_主体功能模块设计（step_1_能力级）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "用户画像与标签中心_主体功能模块设计（step_1_能力级） 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba6f96d4da491b6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "五健平台知识库/系统架构/用户画像与标签中心_主体功能模块设计（step_1_能力级）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "用户画像与标签中心_主体功能模块设计（step_1_能力级） 的出链列表"
+            }
+          },
+          {
+            "id": "bc4f9139b153da24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2c19ad0f543d8cd0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "81b322e415e45c90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "五健平台知识库/系统架构/用户画像与标签中心_主体功能模块设计（step_1_能力级）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "用户画像与标签中心_主体功能模块设计（step_1_能力级） 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "1d79e90b3c1b7c60",
+  "lastOpenFiles": [
+    "现场需求记录/产房管理/产房管理.canvas",
+    "现场需求记录/产房管理/s2分娩记录.md",
+    "现场需求记录/产房管理/s1待产记录模块.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "现场需求记录/产房管理/s门诊信息.md",
+    "现场需求记录/产房管理/s7出院记录.md",
+    "现场需求记录/产房管理/15产后记录.md",
+    "现场需求记录/产房管理/14催产素点滴记录.md",
+    "现场需求记录/产房管理/13新生儿听力筛查.md",
+    "现场需求记录/产房管理/12其他文书.md",
+    "现场需求记录/产房管理/11档案打印.md",
+    "现场需求记录/产房管理/10新生儿记录交接单.md",
+    "现场需求记录/产房管理/9新生儿转科.md",
+    "现场需求记录/产房管理/8出生医学证明.md",
+    "现场需求记录/产房管理/5评估与核查.md",
+    "现场需求记录/产房管理/4产程图.md",
+    "现场需求记录/产房管理/s6入院诊断.md",
+    "现场需求记录/产房管理/s5评估与核查.md",
+    "现场需求记录/产房管理/s4新生儿记录.md",
+    "现场需求记录/产房管理/s3产后观察.md",
+    "五健筛查系统部署方案说明.md",
+    "现场需求记录/产房管理/存疑.md",
+    "会议记录/会议记录.md",
+    "现场需求记录/密云孕产妇保健管理系统.md",
+    "现场需求记录/产房管理",
+    "现场需求记录/密云孕产妇保健管理系统产房.md",
+    "现场需求记录/未命名.base",
+    "演示话术.md",
+    "演示流程.md",
+    "未命名.base",
+    "现场需求记录",
+    "会议记录",
+    "五健招投标相关文件",
+    "五健筛查系统升级",
+    "Skill",
+    "五健平台知识库/调研数据",
+    "五健平台知识库/系统架构"
+  ]
+}

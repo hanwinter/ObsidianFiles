@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"599ee5c44d6d630e","x":-1580,"y":-760,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s1待产记录模块.md"},
+		{"id":"873f3750b62adb01","x":-1149,"y":-760,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s2分娩记录.md"},
+		{"id":"88125d3ab2f66b42","x":-700,"y":-760,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s3产后观察.md"},
+		{"id":"21ba60d893dc3135","x":-240,"y":-760,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s4新生儿记录.md"},
+		{"id":"a7c8f370a19b4aec","x":-1580,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s5评估与核查.md"},
+		{"id":"0fe5a29343f1259d","x":-1149,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s6入院诊断.md"},
+		{"id":"2df30aa7b242bde5","type":"text","text":"功能清单","x":-998,"y":-1040,"width":249,"height":60},
+		{"id":"c22ca52599e16d96","x":-700,"y":-300,"width":660,"height":400,"type":"file","file":"现场需求记录/产房管理/s7出院记录.md"}
+	],
+	"edges":[
+		{"id":"9e95f74547dcf701","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"c22ca52599e16d96","toSide":"top"},
+		{"id":"f51bf1b5435ff619","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"0fe5a29343f1259d","toSide":"top"},
+		{"id":"f1be00be16bed16b","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"a7c8f370a19b4aec","toSide":"top"},
+		{"id":"0460e2d6f517708e","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"21ba60d893dc3135","toSide":"top"},
+		{"id":"bd526baf01d9e3cb","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"88125d3ab2f66b42","toSide":"top"},
+		{"id":"176b75113aa2724c","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"873f3750b62adb01","toSide":"top"},
+		{"id":"273af7d34a62fd11","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"599ee5c44d6d630e","toSide":"top"}
+	]
+}
