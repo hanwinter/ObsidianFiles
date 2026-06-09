@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "6195eb5d8935578e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5e0359bab11dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1dfd7c2ef165e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows + FlClash 配置 CMD 代理完整指南.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows + FlClash 配置 CMD 代理完整指南"
+            }
+          },
+          {
+            "id": "f95f0f7ea9b18e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语国际音标（IPA）体系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语国际音标（IPA）体系"
+            }
+          },
+          {
+            "id": "c3d5bf310c51a3d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语国际音标（IPA）体系.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语国际音标（IPA）体系"
+            }
+          },
+          {
+            "id": "652087c124f4447c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "完整的字母名字母音表格.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "完整的字母名字母音表格"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e298b1de8cd177e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19c936c6fb88cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a55138b614e97eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "61373cd2a7d68cd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bdd799db16d74de7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05d8b102b1f4d760",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73b9b3fca60f751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "919c37a408d3bf06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d4ba3ce57d01c373",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5d76c85e18f5e77f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "30e67878c3f17e5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1300f75933572391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "652087c124f4447c",
+  "lastOpenFiles": [
+    "英语国际音标（IPA）体系.md",
+    "完整的字母名字母音表格.md",
+    "由字母名、字母音、音标、拼读规则这几个维度一起构成英文的发音.md",
+    "Node.js、NVM、Codex、MCP 学习总结.md",
+    "FastAPI Web API WebSocket 知识总结.md",
+    "Windows + FlClash 配置 CMD 代理完整指南.md",
+    "Python 医疗 SaaS 产品路线与开发架构总结.md",
+    "体检报告-AI建议.md",
+    "Python 文件处理 Web 工具副业方案总结.md",
+    "PostgreSQL 与 MySQL 对比总结.md",
+    "PDF 绘本骑马钉排版与印刷完整知识总结.md",
+    "Python 虚拟环境（venv）知识总结.md",
+    "数据库、SQL.md",
+    "实木多层板 餐桌 书桌方案总结.md",
+    "欢迎.md",
+    "iPhone 上 Nextcloud 完全退出与后台运行机制说明.md",
+    "Vue  Node.js 前端工程化学习总结.md",
+    "五健技术参数 - 260520.docx",
+    "InDesign 中 PDF的 Frame与 Content核心知识整理.md"
+  ]
+}
