@@ -6,11 +6,11 @@
 		{"id":"21ba60d893dc3135","type":"file","file":"现场需求记录/产房管理/s4新生儿记录.md","x":-240,"y":-760,"width":400,"height":400},
 		{"id":"2df30aa7b242bde5","type":"text","text":"功能清单","x":-998,"y":-1040,"width":249,"height":60},
 		{"id":"a7c8f370a19b4aec","type":"file","file":"现场需求记录/产房管理/s5评估与核查.md","x":240,"y":-760,"width":400,"height":400},
-		{"id":"0fe5a29343f1259d","type":"file","file":"现场需求记录/产房管理/s6入院诊断.md","x":-1580,"y":-300,"width":400,"height":400},
-		{"id":"c22ca52599e16d96","type":"file","file":"现场需求记录/产房管理/s7出院记录.md","x":-1149,"y":-300,"width":400,"height":400},
-		{"id":"cc6f00ec70a602b9","x":-700,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s8门诊信息.md"},
-		{"id":"d89832b3f59fffa9","x":-240,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s9新生儿记录交接单.md"},
-		{"id":"d5ddb26a15a16158","x":240,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s10产后记录.md"}
+		{"id":"0fe5a29343f1259d","type":"file","file":"现场需求记录/产房管理/不用-入院诊断.md","x":-1580,"y":-300,"width":400,"height":400},
+		{"id":"c22ca52599e16d96","type":"file","file":"现场需求记录/产房管理/不用-出院记录.md","x":-1149,"y":-300,"width":400,"height":400},
+		{"id":"cc6f00ec70a602b9","x":-700,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s7门诊信息.md"},
+		{"id":"d89832b3f59fffa9","x":-240,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s8新生儿记录交接单.md"},
+		{"id":"d5ddb26a15a16158","x":240,"y":-300,"width":400,"height":400,"type":"file","file":"现场需求记录/产房管理/s9产后记录.md"}
 	],
 	"edges":[
 		{"id":"9e95f74547dcf701","fromNode":"2df30aa7b242bde5","fromSide":"bottom","toNode":"c22ca52599e16d96","toSide":"top"},
